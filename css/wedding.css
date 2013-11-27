@@ -1,0 +1,31 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color:#333;
+}
+
+p {
+    padding: 10px;
+}
+
+#wrapper {
+    text-align: center;
+}
+
+#contentwrap {
+    float: left;
+    margin: 0 auto;
+}
+
+#content {
+    background: #F2F7FF;
+    border-radius: 10px;
+    border: 1px solid #dee3eb;
+    margin: 5px;
+}
+
